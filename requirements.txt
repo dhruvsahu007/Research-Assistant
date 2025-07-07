@@ -1,0 +1,9 @@
+streamlit
+openai
+sentence-transformers==2.2.2
+faiss-cpu
+PyPDF2
+requests
+scikit-learn
+cmake
+accelerate==0.14.0
